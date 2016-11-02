@@ -1,0 +1,1 @@
+Solutions for [hihoCoder](http://hihocoder.com/).
